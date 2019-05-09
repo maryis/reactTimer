@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+.pretty{
+  font-family: Tahoma;
+  font-size: 18px;
+  font-style: italic;
+  color: #ff0000;
+}
