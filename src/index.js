@@ -3,8 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import TimerSample from './myTimer';
 import * as serviceWorker from './serviceWorker';
+import Loops from "./Loops";
 
-ReactDOM.render(<TimerSample count="0" />, document.getElementById('root'));
+// ReactDOM.render(<Loops  />, document.getElementById('root'));
+// ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<TimerSample count="0"  />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

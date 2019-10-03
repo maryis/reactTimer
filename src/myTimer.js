@@ -28,7 +28,7 @@ class TimerSample extends React.Component {
     }
 
     render() {
-        console.log('render');
+
         let count=this.state.cnt;
         return (
             <div className="pretty" >
