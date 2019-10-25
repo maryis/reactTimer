@@ -1,4 +1,8 @@
-The code has some good comments.
+------------ ES, JSX ---------------------
+- ECMAScript (or ES) is a scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262. It was created to standardize JavaScript to help foster multiple independent implementations. JavaScript has remained the best-known implementation of ECMAScript since the standard was first published, with other well-known implementations including JScript and ActionScript.ECMAScript is commonly used for client-side scripting on the World Wide Web, and it is increasingly being used for writing server applications and services using Node.js.
+- JSX is an XML-like syntax extension to ECMAScript and not necessarily tied to React at all. React doesn’t require using JSX, but most people find it helpful as a visual aid when working with UI inside the JavaScript code. It also allows React to show more useful error and warning messages and make it easier and more intuitive to create React components. every JSX syntax turns into JS function calls.
+-------------------------------------------
+* The code has some good comments.
 
 the steps:
 - install node
